@@ -18,6 +18,14 @@ ul {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+}
+
 .temperature {
   font-size: 40px;
 }
